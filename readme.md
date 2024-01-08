@@ -1,3 +1,13 @@
+
+firs name      father name      id
+Hailemichael   Adisu            0210/12
+
+debre berhan university
+collage of computing
+software engineering department
+big data indivdual assignment
+
+
 # Electric Vehicle Data Analysis
 
 This repository contains code for analyzing and visualizing electric vehicle population data. The analysis includes exploratory data analysis (EDA), visualization of the dataset, and the implementation of a logistic regression model for predictive analysis.
