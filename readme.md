@@ -1,11 +1,11 @@
 
-firs name      father name      id
-Hailemichael   Adisu            0210/12
+firs name      father name      id .
+Hailemichael   Adisu            0210/12 .
 
-debre berhan university
-collage of computing
-software engineering department
-big data indivdual assignment
+debre berhan university.
+collage of computing.
+software engineering department.
+big data indivdual assignment.
 
 
 # Electric Vehicle Data Analysis
