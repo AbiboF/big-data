@@ -1,11 +1,5 @@
 
-firs name      father name      id .
-Hailemichael   Adisu            0210/12 .
 
-debre berhan university.
-collage of computing.
-software engineering department.
-big data indivdual assignment.
 
 
 # Electric Vehicle Data Analysis
@@ -127,3 +121,12 @@ ScheduledDay Distribution Over Time
 Visualize the distribution of 'ScheduledDay' over time.
 Missing Values and Summary Statistics
 Feel free to customize and extend the code for your specific needs.
+
+
+debre berhan university
+collage of computing
+software engineering department
+big data indivdual assignment
+
+ name                            id
+ Hailemichael Adisu............. 0210/12 
